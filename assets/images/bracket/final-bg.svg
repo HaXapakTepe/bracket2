@@ -1,0 +1,38 @@
+<svg width="920" height="57" viewBox="0 0 920 57" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="920" height="57" fill="url(#paint0_linear_2040_238)"/>
+<g opacity="0.05" clip-path="url(#clip0_2040_238)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M824.254 9.06186L819.778 13.5155L806.352 0.15464L791.434 15L806.352 29.8454L819.778 16.4845L824.254 20.9381L803.866 41.2268L825.745 63L847.625 41.2268L827.237 20.9381L831.713 16.4845L852.101 36.7732L860.803 28.1134L865.03 32.3196L882.434 15L865.03 -2.31959L860.803 1.8866L852.101 -6.7732L831.713 13.5155L827.237 9.06186L847.625 -11.2268L825.745 -33L803.866 -11.2268L824.254 9.06186ZM806.849 -11.2268L825.745 -30.0309L844.642 -11.2268L825.745 7.57732L806.849 -11.2268ZM859.311 3.37114L852.101 -3.80412L833.205 15L852.101 33.8041L859.311 26.6289L847.625 15L859.311 3.37114ZM825.745 10.5464L830.221 15L825.745 19.4536L821.27 15L825.745 10.5464ZM794.418 15L806.352 3.12371L818.286 15L806.352 26.8763L794.418 15ZM806.849 41.2268L825.745 22.4227L844.642 41.2268L825.745 60.0309L806.849 41.2268Z" fill="#C1995B"/>
+</g>
+<g opacity="0.05" clip-path="url(#clip1_2040_238)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M95.7825 9.06186L100.258 13.5155L113.684 0.15464L128.602 15L113.684 29.8454L100.258 16.4845L95.7825 20.9381L116.17 41.2268L94.2907 63L72.4109 41.2268L92.7989 20.9381L88.3235 16.4845L67.9355 36.7732L59.2333 28.1134L55.0065 32.3196L37.6022 15L55.0065 -2.31959L59.2333 1.8866L67.9355 -6.7732L88.3235 13.5155L92.7989 9.06186L72.4109 -11.2268L94.2907 -33L116.17 -11.2268L95.7825 9.06186ZM113.187 -11.2268L94.2907 -30.0309L75.3945 -11.2268L94.2907 7.57732L113.187 -11.2268ZM60.7251 3.37114L67.9355 -3.80412L86.8317 15L67.9355 33.8041L60.7251 26.6289L72.4109 15L60.7251 3.37114ZM94.2907 10.5464L89.8153 15L94.2907 19.4536L98.7661 15L94.2907 10.5464ZM125.619 15L113.684 3.12371L101.75 15L113.684 26.8763L125.619 15ZM113.187 41.2268L94.2907 22.4227L75.3945 41.2268L94.2907 60.0309L113.187 41.2268Z" fill="#C1995B"/>
+</g>
+<g opacity="0.03">
+<g clip-path="url(#clip2_2040_238)">
+<rect x="501.509" y="15.0449" width="131" height="131" transform="rotate(-45 501.509 15.0449)" stroke="#C1995B" stroke-width="2"/>
+<rect x="686.771" y="15.0449" width="131" height="131" transform="rotate(-45 686.771 15.0449)" stroke="#C1995B" stroke-width="2"/>
+</g>
+<g clip-path="url(#clip3_2040_238)">
+<rect x="4.27151" y="15.0449" width="131" height="131" transform="rotate(-45 4.27151 15.0449)" stroke="#C1995B" stroke-width="2"/>
+<rect x="189.533" y="15.0449" width="131" height="131" transform="rotate(-45 189.533 15.0449)" stroke="#C1995B" stroke-width="2"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_2040_238" x1="-3.09969e-07" y1="29.2308" x2="920" y2="29.2308" gradientUnits="userSpaceOnUse">
+<stop stop-color="#2D2309"/>
+<stop offset="0.510417" stop-color="#4B3A0E"/>
+<stop offset="1" stop-color="#2D2309"/>
+</linearGradient>
+<clipPath id="clip0_2040_238">
+<rect width="128.602" height="57" fill="white" transform="translate(791.398)"/>
+</clipPath>
+<clipPath id="clip1_2040_238">
+<rect width="128.602" height="57" fill="white" transform="matrix(-1 0 0 1 128.602 0)"/>
+</clipPath>
+<clipPath id="clip2_2040_238">
+<rect width="81.0476" height="57" fill="white" transform="translate(668.094)"/>
+</clipPath>
+<clipPath id="clip3_2040_238">
+<rect width="81.0476" height="57" fill="white" transform="translate(170.857)"/>
+</clipPath>
+</defs>
+</svg>
