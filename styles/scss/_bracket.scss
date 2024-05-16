@@ -79,7 +79,7 @@
       &:nth-of-type(1) {
         .bracket__item {
           &:nth-of-type(1) {
-            @include fluid(margin-right, 100px, 165px);
+            @include fluid(margin-right, 100px, 170px);
           }
 
           &:nth-of-type(2) {
@@ -111,7 +111,9 @@
           top: -4px;
 
           &-box {
+            position: relative;
             gap: 13px;
+            left: -5px;
           }
 
           &:nth-of-type(2) {
@@ -216,6 +218,8 @@
       left: 50%;
       transform: translate(-50%, -50%);
       z-index: -1;
+      -o-object-fit: cover;
+      object-fit: cover;
       @include fluid(width, 310px, 465px);
     }
 
@@ -241,6 +245,10 @@
 
                 &-box {
                   @include fluid(gap, 20px, 30px);
+                }
+
+                &-img {
+                  margin-right: 11px;
                 }
               }
             }
@@ -315,7 +323,7 @@
 
           &-icon {
             width: 100%;
-            @include fluid(max-width, 465px, 920px);
+            @include fluid(max-width, 595px, 920px);
             @include fluid(height, 30px, 57px);
           }
         }
@@ -341,7 +349,7 @@
 
                 &-img {
                   margin-left: unset;
-                  @include fluid(margin-right, 9px, 32px);
+                  margin-right: 28px;
                 }
 
                 &-text {
@@ -473,13 +481,15 @@
 @media(max-width: 1200px) {
   .bracket {
     &__target {
+      max-width: 600px;
+
       &-icon {
         transform: translate(-50%, -55%);
       }
     }
 
     &__inner {
-      max-width: 650px;
+      max-width: 595px;
       margin-left: auto;
       margin-right: auto;
 
@@ -586,7 +596,7 @@
       }
 
       &--grandFinal {
-        max-width: 465px;
+        max-width: 595px;
         margin-left: auto;
         margin-right: auto;
 
@@ -604,6 +614,14 @@
           &__item {
             &:nth-child(2) {
               margin-right: -50px;
+
+              .bracket {
+                &__item {
+                  &-img {
+                    margin-right: 9px;
+                  }
+                }
+              }
             }
 
             &-img {
